@@ -1,0 +1,4 @@
+name: MyFirstPlugin
+version: '0.0.0'
+main: ru.thiflict.myFirstPlugin.MFP
+api-version: '1.21'
